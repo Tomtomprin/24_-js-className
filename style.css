@@ -1,0 +1,40 @@
+.star {
+    background: orange;
+}
+
+.planet {
+    background: lightslategray;
+    /* background: rgb(244, 244, 129) */
+}
+
+
+.btn_morning {
+    display: block;
+    width: 100px;
+    height: 30px;
+    background: lightpink;
+    margin: 100px auto;
+}
+
+.btn_night {
+    display: block;
+    width: 100px;
+    height: 30px;
+    background: lightblue;
+    margin: 100px auto;
+}
+
+
+div {
+    display: block;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+
+}
